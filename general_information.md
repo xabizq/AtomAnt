@@ -1,5 +1,5 @@
 ## MEMORIA DEL PROYECTO
-![](https://github.com/xabizq/AtomAnt/blob/master/pictures/IMG_0261.JPG)
+![](https://github.com/xabizq/AtomAnt/blob/master/pictures/IMG_0261_PSD.png)
 ### Introducción
 Este proyecto nació de la necesidad de adquirir un buen nivel de programación en Arduino. 
 Para ello que mejor que construir y programar un siguelíneas.
