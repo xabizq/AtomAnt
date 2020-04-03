@@ -7,4 +7,4 @@ Puestos en la obra lo primero que hice es "vigilancia tecnológica" con el fin d
 
 <p align="center">
  <img width="460" height="300" src="https://github.com/xabizq/AtomAnt/blob/master/pictures/IMG_0261%20copia.jpg">
-</p>
+</p> 
